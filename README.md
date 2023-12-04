@@ -1,5 +1,6 @@
 ## Consumindo a API SWAPI em um projeto utilizando a tecnologia React 
 
+Link da API: https://swapi.dev/
 
 
 <!-- ## Running React on Repl.it
